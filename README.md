@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Vishwesh Jadhav
 
-<!--
-**vishwesh29/vishwesh29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Developer with 4.5+ years of experience building enterprise web applications using ASP.NET Core, Angular, Azure, SQL Server and REST APIs.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- ASP.NET Core
+- Angular 17
+- SQL Server
+- Azure
+- Entity Framework Core
+- REST APIs
+- Azure DevOps
+- GitHub
+
+## Projects
+
+### Healthcare Management System
+Built patient onboarding, scheduling, RBAC, and medical record management.
+
+### SIP Investment & Portfolio Management System
+Developed portfolio tracking, SIP management, and reporting solutions.
+
+### Loan Management System
+Built loan origination, EMI processing, and approval workflow modules.
+
+## Connect With Me
+
+- Portfolio: https://vishwesh29.github.io
+- LinkedIn: linkedin.com/in/vishwesh-jadhav-361063416
+- GitHub: github.com/vishwesh29
